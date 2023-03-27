@@ -1,0 +1,27 @@
+{
+  "name": "componente",
+  "version": "1.0.0",
+  "description": "Web component to create social icons, based on LitElement",
+  "main": "social-icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicorrt/social-icon-lit.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "litelement",
+    "javascript"
+  ],
+  "author": "@EscuelaIT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicorrt/social-icon-lit/issues"
+  },
+  "homepage": "https://github.com/nicorrt/social-icon-lit#readme",
+  "dependencies": {
+    "lit-element": "^2.1.0"
+  }
+}
